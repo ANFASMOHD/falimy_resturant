@@ -1,0 +1,5 @@
+thunk
+accept and action type string and function that returns promise and generate tunk that dipatches pending/ fufiled/rejected  action type
+based on that promise
+
+thunks is not part of the slice its an sepertes method in toolkit
